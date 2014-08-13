@@ -7,3 +7,6 @@ Author URI: http://www.resplin.com/
 Version: 1.0
 Tags: responsive, white, bootstrap
 */
+
+@import url('bootstrap/css/bootstrap.min.css');
+@import url('blog.css');
